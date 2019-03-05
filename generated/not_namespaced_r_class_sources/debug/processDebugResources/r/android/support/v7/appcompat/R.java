@@ -662,20 +662,20 @@ public final class R {
         public static final int icon = 0x7f070042;
         public static final int icon_group = 0x7f070043;
         public static final int image = 0x7f070045;
-        public static final int info = 0x7f070049;
-        public static final int italic = 0x7f07004b;
-        public static final int left = 0x7f07004c;
-        public static final int line1 = 0x7f07004d;
-        public static final int line3 = 0x7f07004e;
-        public static final int listMode = 0x7f07004f;
-        public static final int list_item = 0x7f070050;
-        public static final int message = 0x7f070051;
-        public static final int multiply = 0x7f070053;
-        public static final int none = 0x7f070055;
-        public static final int normal = 0x7f070056;
-        public static final int notification_background = 0x7f070057;
-        public static final int notification_main_column = 0x7f070058;
-        public static final int notification_main_column_container = 0x7f070059;
+        public static final int info = 0x7f070048;
+        public static final int italic = 0x7f07004a;
+        public static final int left = 0x7f07004b;
+        public static final int line1 = 0x7f07004c;
+        public static final int line3 = 0x7f07004d;
+        public static final int listMode = 0x7f07004e;
+        public static final int list_item = 0x7f07004f;
+        public static final int message = 0x7f070050;
+        public static final int multiply = 0x7f070052;
+        public static final int none = 0x7f070054;
+        public static final int normal = 0x7f070055;
+        public static final int notification_background = 0x7f070056;
+        public static final int notification_main_column = 0x7f070057;
+        public static final int notification_main_column_container = 0x7f070058;
         public static final int parentPanel = 0x7f07005c;
         public static final int progress_circular = 0x7f07005e;
         public static final int progress_horizontal = 0x7f07005f;
@@ -771,10 +771,10 @@ public final class R {
         public static final int notification_template_icon_group = 0x7f090020;
         public static final int notification_template_part_chronometer = 0x7f090021;
         public static final int notification_template_part_time = 0x7f090022;
-        public static final int select_dialog_item_material = 0x7f090023;
-        public static final int select_dialog_multichoice_material = 0x7f090024;
-        public static final int select_dialog_singlechoice_material = 0x7f090025;
-        public static final int support_simple_spinner_dropdown_item = 0x7f090026;
+        public static final int select_dialog_item_material = 0x7f090024;
+        public static final int select_dialog_multichoice_material = 0x7f090025;
+        public static final int select_dialog_singlechoice_material = 0x7f090026;
+        public static final int support_simple_spinner_dropdown_item = 0x7f090027;
     }
     public static final class string {
         private string() {}
